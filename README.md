@@ -1,12 +1,11 @@
 # Driving Car
-
-Player 1
+Player 1:
 ```
 WASD: Move
 E: Switch Camera
 ```
 
-Player 2
+Player 2:
 ```
 ← ↑ → ↓: Move
 0: Switch Camera
@@ -21,3 +20,11 @@ Space: Shoot
 ```
 
 <img src="Images/AnimalRush.png" alt="preview-img" />
+
+# Jump Force
+```
+Space: Jump (Can double jump)
+Left Shift: Run
+```
+
+<img src="Images/JumpForce.png" alt="preview-img" />
